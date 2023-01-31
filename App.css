@@ -1,0 +1,27 @@
+.body{
+  background-color: #ffffff;
+  
+  /* color: #003366; */
+  text-align: center;
+  /* margin: 100px; */
+
+  background-image: linear-gradient(#fffffff7, #ffffffd7),
+    url("https://upload.wikimedia.org/wikipedia/commons/e/ef/East_Delta_University_logo.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: top;
+  /*background-attachment: fixed;*/
+  /* backdrop-filter: blur(3px); */
+  /* height: 50vh; */
+}
+
+.cardBg{
+  /* background-color: #db8100;
+background-image: linear-gradient(62deg, #db8100 0%, #f16f6f 100%); */
+/* background-color: #8EC5FC;
+background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%); */
+background-color: #8EC5FC;
+background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+
+}
